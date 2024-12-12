@@ -1,7 +1,7 @@
 import React from 'react'
 import "./skills.css"
 import {SKILLS} from "../../data/data.js"
-import SkillCard from './skillcard/skillcard'
+import SkillCard from './skillcard/skillcard.jsx'
 import { useState } from 'react'
 import SkillCardInfo from './skillinfocard/skillinfocard.jsx'
 

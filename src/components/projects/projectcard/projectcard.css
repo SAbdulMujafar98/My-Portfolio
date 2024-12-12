@@ -47,7 +47,7 @@
 @media(max-width: 769px){
     .project-card{
         margin: 0;
-        height: 45vh;
+        overflow-y: auto;
     }
     .project-card h6{
         font-size: 0.95rem;

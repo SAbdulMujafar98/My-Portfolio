@@ -104,6 +104,15 @@ export const PROJECTS = [
         ]
     },
     {
+        title: "English-Dictionary",
+        link: "https://sabdulmujafar98.github.io/English-Dictionary/",
+        properties: [
+            "Created an English Dictionary using a Dictionary API.",
+            "Responsive design for seamless user experience Includes Search and Clear buttons for better functionality. ",
+            "A display box is used to present the meanings and phonetics of the search word."
+        ]
+    },
+    {
         title: "Simon-Game",
         link: "https://sabdulmujafar98.github.io/Simon-game/",
         properties: [
